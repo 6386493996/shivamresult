@@ -1,0 +1,16 @@
+shivamresult/
+├── index.html
+├── jobs.html
+├── results.html
+├── admit-card.html
+├── syllabus.html
+├── answer-key.html
+├── admission.html
+├── certificates.html
+├── interview.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+└── assets/
+    └── logo.png
