@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Latest Jobs – ShivamResult</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="assets/logo.png">
+</head>
+<body>
+  <!-- Header, nav, notification-bar, search-bar same as index.html -->
+  <section class="main-section">
+    <h2 style="color:#e53935;">Latest Government Job Notifications</h2>
+    <ul>
+      <li><b>UPSC Civil Services 2025</b> – <a class="download-link" href="#">Notification</a> | <a class="download-link" href="#">Apply</a></li>
+      <li><b>SSC CGL 2025</b> – <a class="download-link" href="#">Notification</a> | <a class="download-link" href="#">Apply</a></li>
+      <li><b>RRB NTPC 2025</b> – <a class="download-link" href="#">Notification</a> | <a class="download-link" href="#">Apply</a></li>
+      <!-- Add more jobs -->
+    </ul>
+  </section>
+  <footer>
+    © 2025 ShivamResult. All rights reserved.
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>
