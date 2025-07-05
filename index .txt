@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ShivamResult – Latest Government Jobs, Results, Admit Cards</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="assets/logo.png">
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="ShivamResult Logo" style="height:50px;margin-bottom:6px;">
+    <h1>ShivamResult</h1>
+    <div style="font-size:1.1em;margin-top:3px;">All India Government Jobs, Results, Admit Cards & More</div>
+  </header>
+  <nav>
+    <a href="index.html" class="active">Home</a>
+    <a href="jobs.html">Latest Jobs</a>
+    <a href="results.html">Results</a>
+    <a href="admit-card.html">Admit Card</a>
+    <a href="syllabus.html">Syllabus</a>
+    <a href="answer-key.html">Answer Key</a>
+    <a href="admission.html">Admission</a>
+    <a href="certificates.html">Certificates</a>
+    <a href="interview.html">Interview</a>
+  </nav>
+  <div class="notification-bar">
+    📢 Get instant updates on all central & state government jobs, results, admit cards & more!
+  </div>
+  <div class="search-bar">
+    <input id="searchInput" type="text" placeholder="Search jobs, results, admit cards...">
+    <button onclick="searchSite()">Search</button>
+  </div>
+  <section class="main-section">
+    <div class="card-grid">
+      <div class="card">
+        <h2>Latest Job Notifications</h2>
+        <ul>
+          <li>Central & State Govt Jobs <a class="download-link" href="jobs.html">View</a></li>
+          <li>PSU, Railway, Banking, Defence</li>
+          <li>Eligibility, Application Dates, Official Links</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Exam Results</h2>
+        <ul>
+          <li>UPSC, SSC, RRB, State PSC Results <a class="download-link" href="results.html">Check</a></li>
+          <li>Board & University Results</li>
+          <li>Direct Download Links</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Admit Cards</h2>
+        <ul>
+          <li>Download Latest Admit Cards <a class="download-link" href="admit-card.html">Download</a></li>
+          <li>Exam City, Date, Center Details</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Syllabus & Exam Pattern</h2>
+        <ul>
+          <li>Detailed Syllabus for All Exams <a class="download-link" href="syllabus.html">View</a></li>
+          <li>Exam Pattern, Marking Scheme</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Answer Keys</h2>
+        <ul>
+          <li>Official & Provisional Answer Keys <a class="download-link" href="answer-key.html">See</a></li>
+          <li>Estimate Your Score</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Admission Updates</h2>
+        <ul>
+          <li>Entrance Exams, Counseling <a class="download-link" href="admission.html">Info</a></li>
+          <li>College & University Admissions</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Certificates & Documents</h2>
+        <ul>
+          <li>Download Certificates, Notices <a class="download-link" href="certificates.html">Download</a></li>
+          <li>Govt Schemes, Scholarships</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Interviews & Results</h2>
+        <ul>
+          <li>Interview Call Letters <a class="download-link" href="interview.html">Get</a></li>
+          <li>Interview Results & Updates</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <footer>
+    © 2025 ShivamResult. All rights reserved. | Ad-free | Designed for mobile & desktop
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>
